@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Make understanding about coding better by practicing.
+
 <!--
 **batv8/batv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
