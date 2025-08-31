@@ -8,7 +8,7 @@ jobs:
       - run:
           name: Send Discord Notification
           command: |
-            curl -H "Content-Type: application/json" -X POST -d '{"content": "Repo `batv8`: Finish flow `run-and-test`"}' https://discord.com/api/webhooks/1411725325150457866/CGB4PzlL5OLBDT2uv3UDU1qArAr1MAjf19Vqodyx00KfrWdppW6pvo7yN9yfhHdrcflg
+            curl -H "Content-Type: application/json" -X POST -d '{"content": "Repo `batv8/batv8` finish flow `run-and-test`"}' https://discord.com/api/webhooks/1411725325150457866/CGB4PzlL5OLBDT2uv3UDU1qArAr1MAjf19Vqodyx00KfrWdppW6pvo7yN9yfhHdrcflg
 
 workflows:
   version: 2
